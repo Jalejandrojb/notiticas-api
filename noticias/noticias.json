@@ -19,6 +19,13 @@
     "descripcion": "Un atardecer espectacular se ha registrado en la playa de Chichiriviche, capturado por los fotógrafos locales y compartido en las redes sociales.",
     "imagen_url": "https://jalejandrojb.github.io/notiticas-api/noticias/imagenes/atardecer.jpg",
     "fecha": "2026-09-13"
+  },
+    {
+    "id": 4,
+    "titulo": "Lista de actividades de la semana en el estado Zulia",
+    "descripcion": "DHN ha organizado una lista de actividades de la semana en el estado Zulia, con el objetivo de promover el turismo y la cultura local.",
+    "imagen_url": "https://jalejandrojb.github.io/notiticas-api/noticias/imagenes/prueba.jpg",
+    "fecha": "2026-09-15"
   }
 
 ]
