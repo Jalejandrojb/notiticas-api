@@ -8,7 +8,7 @@
   },
   {
     "id": 2,
-    "titulo": "Nueva estacion Meteorologica en el estado Zulia",
+    "titulo": "Nueva estación Meteorológica en el estado Zulia",
     "descripcion": "DHN ha inaugurado una nueva estación meteorológica en el estado Zulia, con el objetivo de mejorar la predicción del clima y la seguridad de los ciudadanos.",
     "imagen_url": "https://jalejandrojb.github.io/notiticas-api/noticias/imagenes/estacion-meteorologica.jpg",
     "fecha": "2026-09-13"

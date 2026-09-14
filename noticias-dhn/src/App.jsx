@@ -6,7 +6,7 @@ function App() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    const urlAPI = "https://jalejandrojb.github.io/notiticas/noticias.json";
+    const urlAPI = "https://jalejandrojb.github.io/notiticas-api/noticias/noticias.json";
 
     fetch(urlAPI)
       .then((response) => response.json())
@@ -26,7 +26,7 @@ function App() {
 
   return (
     <div className="app-container">
-      <h1>📰 Portal de Noticias Estático</h1>
+      <h1>📰 Portal de Noticias</h1>
       
       <div className="noticias-grid">
         {noticias.map((noticia) => (
