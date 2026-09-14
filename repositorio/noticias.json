@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "titulo": "Lanzamiento del nuevo telescopio espacial",
+    "descripcion": "La agencia espacial ha puesto en órbita un nuevo telescopio capaz de ver los orígenes del universo con un nivel de detalle nunca antes visto.",
+    "imagen_url": "https://github.io",
+    "fecha": "2026-09-14"
+  },
+  {
+    "id": 2,
+    "titulo": "Descubren una nueva especie marina",
+    "descripcion": "Científicos explorando las fosas marianas han fotografiado a una criatura bioluminiscente totalmente desconocida para la ciencia.",
+    "imagen_url": "https://github.io",
+    "fecha": "2026-09-13"
+  }
+]
