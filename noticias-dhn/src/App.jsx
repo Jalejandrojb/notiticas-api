@@ -6,8 +6,7 @@ function App() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    // REEMPLAZA ESTA URL CON LA TUYA DE GITHUB PAGES
-    const urlAPI = "https://github.io";
+    const urlAPI = "https://jalejandrojb.github.io/notiticas/noticias.json";
 
     fetch(urlAPI)
       .then((response) => response.json())
