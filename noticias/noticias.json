@@ -12,5 +12,13 @@
     "descripcion": "DHN ha inaugurado una nueva estación meteorológica en el estado Zulia, con el objetivo de mejorar la predicción del clima y la seguridad de los ciudadanos.",
     "imagen_url": "https://jalejandrojb.github.io/notiticas-api/noticias/imagenes/estacion-meteorologica.jpg",
     "fecha": "2026-09-13"
+  },  
+  {
+    "id": 3,
+    "titulo": "Atardecer espectacular en la playa de Chichiriviche",
+    "descripcion": "Un atardecer espectacular se ha registrado en la playa de Chichiriviche, capturado por los fotógrafos locales y compartido en las redes sociales.",
+    "imagen_url": "https://jalejandrojb.github.io/notiticas-api/noticias/imagenes/atardecer.jpg",
+    "fecha": "2026-09-13"
   }
+
 ]
