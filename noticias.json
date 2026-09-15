@@ -19,5 +19,12 @@
     "descripcion": "Un atardecer espectacular se ha registrado en la playa de Chichiriviche, capturado por los fotógrafos locales y compartido en las redes sociales.",
     "imagen_url": "https://jalejandrojb.github.io/notiticas-api/imagenes/atardecer.jpg",
     "fecha": "2026-09-13"
+  },
+  {
+    "id": 4,
+    "titulo": "Recuperacion de Boya",
+    "descripcion": "DHN recupera boya en la costa de Puerto Cabello",
+    "imagen_url": "https://jalejandrojb.github.io/notiticas-api/imagenes/Rescate_Boya.jpg",
+    "fecha": "2026-09-13"
   }
 ]
