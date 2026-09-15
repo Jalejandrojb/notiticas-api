@@ -3,21 +3,21 @@
     "id": 1,
     "titulo": "Nueva boya en las costas de Puerto Cabello",
     "descripcion": "DHN ha inaugurado un nueva boya en las costas de Puerto Cabello, con el objetivo de mejorar la seguridad marítima en la región.",
-    "imagen_url": "https://jalejandrojb.github.io/notiticas-api/noticias/imagenes/boya.jpg",
+    "imagen_url": "https://jalejandrojb.github.io/notiticas-api/imagenes/boya.jpg",
     "fecha": "2026-09-14"
   },
   {
     "id": 2,
     "titulo": "Nueva estación Meteorológica en el estado Zulia",
     "descripcion": "DHN ha inaugurado una nueva estación meteorológica en el estado Zulia, con el objetivo de mejorar la predicción del clima y la seguridad de los ciudadanos.",
-    "imagen_url": "https://jalejandrojb.github.io/notiticas-api/noticias/imagenes/estacion-meteorologica.jpg",
+    "imagen_url": "https://jalejandrojb.github.io/notiticas-api/imagenes/estacion-meteorologica.jpg",
     "fecha": "2026-09-13"
   },  
   {
     "id": 3,
     "titulo": "Atardecer espectacular en la playa de Chichiriviche",
     "descripcion": "Un atardecer espectacular se ha registrado en la playa de Chichiriviche, capturado por los fotógrafos locales y compartido en las redes sociales.",
-    "imagen_url": "https://jalejandrojb.github.io/notiticas-api/noticias/imagenes/atardecer.jpg",
+    "imagen_url": "https://jalejandrojb.github.io/notiticas-api/imagenes/atardecer.jpg",
     "fecha": "2026-09-13"
   }
 ]
