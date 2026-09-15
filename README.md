@@ -1,24 +1,45 @@
-**1. Subir la foto**
+1. **Guardar y subir la imagen:**
+* Guarda el archivo de imagen en tu equipo local con un nombre descriptivo en formato `.jpg` (ejemplo: `nueva-noticia.jpg`).
+* Sube la imagen a la carpeta de imágenes del proyecto (`noticias/imagenes/`).
 
-* Guarda la imagen localmente con un nombre descriptivo (ej. `nueva-noticia.jpg`).
-* Sube el archivo al repositorio en la carpeta `noticias/imagenes/`.
-* Copia la URL pública resultante:
-`[https://jalejandrojb.github.io/notiticas-api/noticias/imagenes/nueva-noticia.jpg](https://jalejandrojb.github.io/notiticas-api/noticias/imagenes/nueva-noticia.jpg)`
 
-**2. Llenar los espacios de la lista**
+2. **Abrir el archivo JSON e incrementar la lista:**
+Abre el archivo JSON y suma un elemento a la lista de noticias manteniendo la misma estructura de los elementos anteriores.
 
-* Asigna el nuevo ID correlativo (`"id": 4`).
-* Añade los datos de la noticia usando la URL de la foto y la fecha actual (`AAAA-MM-DD`):
+Estructura de ejemplo:
+
 ```json
 {
-  "id": 4,
-  "titulo": "Título de la noticia",
-  "descripcion": "Descripción del evento.",
-  "imagen_url": "https://jalejandrojb.github.io/notiticas-api/noticias/imagenes/nueva-noticia.jpg",
-  "fecha": "2026-09-14"
+  "id": 0,
+  "titulo": "",
+  "descripcion": "",
+  "imagen_url": "",
+  "fecha": ""
 }
 
 ```
 
+//Recordar poner una coma despues del elemento anteiror a la nueva noticia)
 
-* Coloca una coma `,` al final del elemento anterior (`id: 3`), pega la nueva estructura al final del arreglo JSON antes del corchete `]` y guarda los cambios.
+
+3. **Asignar el ID correspondiente:**
+Agrégale el ID que corresponde según la lista actual (en este caso, `"id": 4`).
+
+
+4. **Llenar título y descripción:**
+Llena los campos `"titulo"` y `"descripcion"` con la información correspondiente a la noticia.
+
+
+5. **Agregar la dirección URL de la imagen:**
+Agrega la dirección URL con el nombre de la imagen subida para la noticia.
+
+Ejemplo de campo `imagen_url`:
+
+```json
+"imagen_url": "https://jalejandrojb.github.io/notiticas-api/noticias/imagenes/nueva-noticia.jpg"
+
+```
+
+
+6. **Agregar la fecha:**
+Agrega la fecha en la que se publica la noticia en formato `AAAA-MM-DD` (ejemplo: `"2026-09-14"`).
