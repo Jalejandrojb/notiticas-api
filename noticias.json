@@ -11,6 +11,14 @@
     "titulo": "Rescate de Boya",
     "descripcion": "DHN rescata boya en Chichiriviche",
     "imagen_url": "https://jalejandrojb.github.io/notiticas-api/imagenes/rescate-boya.jpg",
-    "fecha": "2026-09-115"
-  }
+    "fecha": "2026-09-15"
+  },
+  {
+    "id": 3,
+    "titulo": "Anochecer en la playa",
+    "descripcion": "Un anochecer espectacular se ha registrado en la playa de Chichiriviche, capturado por los fotógrafos locales y compartido en las redes sociales.",
+    "imagen_url": "https://jalejandrojb.github.io/notiticas-api/imagenes/anochecer.jpg",
+    "fecha": "2026-11-115"
+}
+
 ]
