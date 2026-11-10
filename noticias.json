@@ -29,9 +29,9 @@
   },
     {
     "id": 5,
-    "titulo": "Otro anocecer en la playa...?",
-    "descripcion": "Se repite el espectacular espectacular anochecer ha registrado en la playa de Chichiriviche, capturado por los fotógrafos locales y compartido en las redes sociales.",
-    "imagen_url": "https://jalejandrojb.github.io/notiticas-api/imagenes/noche.jpg",
+    "titulo": "Instagram?",
+    "descripcion": "Muestra de publicaciones en la pagina de Instagram",
+    "imagen_url": "https://jalejandrojb.github.io/notiticas-api/imagenes/Instagram.png",
     "fecha": "2026-11-115"
   }
 
