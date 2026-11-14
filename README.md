@@ -1,6 +1,5 @@
 1. **Guardar y subir la imagen:**
-* Guarda el archivo de imagen en tu equipo local con un nombre descriptivo en formato `.jpg` (ejemplo: `nueva-noticia.jpg`).
-* Sube la imagen a la carpeta de imágenes del proyecto (`noticias/imagenes/`).
+* Sube la imagen a la carpeta de imágenes del proyecto (`noticias/imagenes/`) con un nombre descriptivo en formato `.jpg` (ejemplo: `nueva-noticia.jpg`).
 
 
 2. **Abrir el archivo JSON e incrementar la lista:**
