@@ -1,23 +1,30 @@
 [
   {
+    "id": 9,
+    "titulo": "Tecnologia",
+    "descripcion": "centro de Datos",
+    "imagen_url": "https://jalejandrojb.github.io/notiticas-api/imagenes/3-1795058554434.jpeg",
+    "fecha": "2026-11-19"
+  },
+  {
     "id": 8,
     "titulo": "Noticia de Prueba de Faro",
     "descripcion": "Faro con  nombre",
-    "imagen_url": "/imagenes/faro1-1795057327803.jpg",
+    "imagen_url": "https://jalejandrojb.github.io/notiticas-api/imagenes/faro1-1795057327803.jpg",
     "fecha": "2026-11-18"
   },
   {
     "id": 7,
     "titulo": "PLATAFORMA DE NOTICIAS",
     "descripcion": "PLATAFORMA",
-    "imagen_url": "/imagenes/img_1787-1795057035345.jpg",
+    "imagen_url": "https://jalejandrojb.github.io/notiticas-api/imagenes/img_1787-1795057035345.jpg",
     "fecha": "2026-11-19"
   },
   {
     "id": 6,
     "titulo": "Prueba Funcional de Plataforma de Noticias",
     "descripcion": "Prueba",
-    "imagen_url": "/imagenes/4950007950072286191-1795056929378.jpg",
+    "imagen_url": "https://jalejandrojb.github.io/notiticas-api/imagenes/4950007950072286191-1795056929378.jpg",
     "fecha": "2026-11-19"
   },
   {
