@@ -1,5 +1,12 @@
 [
   {
+    "id": 8,
+    "titulo": "Noticia de Prueba de Faro",
+    "descripcion": "Faro con  nombre",
+    "imagen_url": "/imagenes/faro1-1795057327803.jpg",
+    "fecha": "2026-11-18"
+  },
+  {
     "id": 7,
     "titulo": "PLATAFORMA DE NOTICIAS",
     "descripcion": "PLATAFORMA",
