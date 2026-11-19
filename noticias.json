@@ -1,5 +1,12 @@
 [
   {
+    "id": 6,
+    "titulo": "Prueba Funcional de Plataforma de Noticias",
+    "descripcion": "Prueba",
+    "imagen_url": "/imagenes/4950007950072286191-1795056929378.jpg",
+    "fecha": "2026-11-19"
+  },
+  {
     "id": 1,
     "titulo": "Atardecer espectacular en la playa de Chichiriviche",
     "descripcion": "Un atardecer espectacular se ha registrado en la playa de Chichiriviche, capturado por los fotógrafos locales y compartido en las redes sociales.",
@@ -20,19 +27,18 @@
     "imagen_url": "https://jalejandrojb.github.io/notiticas-api/imagenes/noche.jpg",
     "fecha": "2026-11-115"
   },
-    {
+  {
     "id": 4,
     "titulo": "Otro atardecer en la playa...?",
     "descripcion": "Se repite el espectacular espectacular se ha registrado en la playa de Chichiriviche, capturado por los fotógrafos locales y compartido en las redes sociales.",
     "imagen_url": "https://jalejandrojb.github.io/notiticas-api/imagenes/atardecer.jpg",
     "fecha": "2026-11-115"
   },
-    {
+  {
     "id": 5,
     "titulo": "Instagram",
     "descripcion": "Muestra de publicaciones en la pagina de Instagram",
     "imagen_url": "https://jalejandrojb.github.io/notiticas-api/imagenes/Instagram.png",
     "fecha": "2026-11-115"
   }
-
 ]
