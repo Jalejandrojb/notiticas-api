@@ -1,5 +1,12 @@
 [
   {
+    "id": 7,
+    "titulo": "PLATAFORMA DE NOTICIAS",
+    "descripcion": "PLATAFORMA",
+    "imagen_url": "/imagenes/img_1787-1795057035345.jpg",
+    "fecha": "2026-11-19"
+  },
+  {
     "id": 6,
     "titulo": "Prueba Funcional de Plataforma de Noticias",
     "descripcion": "Prueba",
